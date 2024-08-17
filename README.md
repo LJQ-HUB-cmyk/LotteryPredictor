@@ -36,4 +36,4 @@ From physical point of view, considering the winds, the shapes of the balls, the
 
 ## Remarks
 
-Not many optimizations have been done to the code. The code is just a simple implementation of the algorithms. Star for more updates.
+Not many optimizations have been done to the code. The code is just a simple implementation of the algorithms. Open issues for more improvements.

@@ -19,7 +19,7 @@ python model/ml.py
 ```
 or 
 ```bash
-python model/statistics.py
+python model/freq.py
 ```
 or 
 ```bash

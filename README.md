@@ -1,6 +1,10 @@
 # LotteryPredictor
 
-This is a simple lottery predictor that uses simple algorithms to predict the next lottery numbers. 
+This is a simple Vietlott predictor that uses simple algorithms to predict the next lottery numbers. 
+
+## Objectives
+Maximize the profit
+Minimize the loss
 
 ## How to use
 
@@ -36,4 +40,4 @@ From physical point of view, considering the winds, the shapes of the balls, the
 
 ## Remarks
 
-Not many optimizations have been done to the code. The code is just a simple implementation of the algorithms. Open issues for more improvements.
+Not many optimizations have been done to the code. Open issues for more improvements.

@@ -4,6 +4,7 @@ This is a simple Vietlott predictor that uses simple algorithms to predict the n
 
 ## Objectives
 Maximize the profit
+
 Minimize the loss
 
 ## How to use
